@@ -135,8 +135,8 @@
 // const notas = [70, 80, 80, 90, 60];
 // obtenerPromedio(notas); // El promedio es 81.25, Aprobó
 
-// ejercicio individual
 
+// ejercicio individual
 function printArrayElements(array) {
     array.forEach(elemento => console.log(elemento));
 };

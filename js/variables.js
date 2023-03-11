@@ -11,25 +11,25 @@ let nombre = 'Jesus'; // tiene un alcance global
 //     console.log(nombre);
 // }
 
-if(4 > 5) {
-    let nombre = 'Alejandra'
-    console.log(nombre);
-}
+// if(4 > 5) {
+//     let nombre = 'Alejandra'
+//     console.log(nombre);
+// }
 
-if(4 < 5) {
-    let nombre = 'Alejandra'
-    console.log(nombre);
-}
+// if(4 < 5) {
+//     let nombre = 'Alejandra'
+//     console.log(nombre);
+// }
 
-console.log(nombre);
+// console.log(nombre);
 
 
 // String templates
 
-let firstName = 'Fernando';
-let lastName = 'Cuellar';
-let age = 47;
+// let firstName = 'Fernando';
+// let lastName = 'Cuellar';
+// let age = 47;
 
-console.log('Hola soy ' + firstName + ' ' + lastName + ', tengo ' + age + ' años');
+// console.log('Hola soy ' + firstName + ' ' + lastName + ', tengo ' + age + ' años');
 
-console.log(`Hola soy ${firstName} ${lastName}, tengo ${age} años`);
+// console.log(`Hola soy ${firstName} ${lastName}, tengo ${age} años`);

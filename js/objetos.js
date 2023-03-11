@@ -127,7 +127,7 @@ console.log(c); // 3
 
 const miArreglo1 = [1,2,3];
 
-const [d, ,e] = miArreglo; // Esto tendrá como resultado  a=1, c=3.
+const [d, ,e] = miArreglo; // Esto tendrá como resultado  d=1, e=3.
 
 console.log(d); // 1
 console.log(e); // 3 
